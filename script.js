@@ -1,7 +1,7 @@
 // Step 1: Setup Event Listener for Page Load
 document.addEventListener('DOMContentLoaded', () => {
     // Step 2: Select DOM Elements
-    const addButton = document.getElementById('add-button'); // "Add Task" button
+    const addButton = document.getElementById('add-button'); // Correct ID for the "Add Task" button
     const taskInput = document.getElementById('task-input'); // Input field for tasks
     const taskList = document.getElementById('task-list'); // Unordered list for tasks
   
